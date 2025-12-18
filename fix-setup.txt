@@ -1,0 +1,36 @@
+1. requirements.txt must contain:
+
+tkinterdnd2
+Pillow
+auto-py-to-exe
+
+
+2. Remove old venv folder
+
+
+3. Create a new virtual environment and install dependencies with one command:
+
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+
+
+4. Check installed packages:
+
+pip list
+
+
+You should see:
+
+Package           Version
+------------------------
+tkinterdnd2       0.4.3
+Pillow            <версия>
+auto-py-to-exe    <версия>
+
+
+5. VS Code Settings:
+Ctrl+Shift+P → Python: Select Interpreter
+
+
+6. Relaunch IDE

@@ -1,6 +1,8 @@
-# ExifDateRenamer
+# EditDateofChange
 
-Simple Windows 10 utility with GUI that renames photo and video files based on their original creation date (EXIF / media metadata)
+Simple Windows 10 utility with GUI that lets users set or edit the “last modified” date of photo and video files manually.
+
+The finished executable file is located in the output directory.
 
 ## License
 
